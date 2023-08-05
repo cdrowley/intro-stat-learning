@@ -16,7 +16,6 @@ To get started with this repository and take advantage of a custom GitHub code s
 
 1. Launch the repository in the GitHub code space by clicking the green "Code" button and selecting "Open with Code Spaces".
 2. Explore the code, notes, and exercises within the code space environment.
-3. If necessary, install additional dependencies by running `pip install -r requirements.txt` within the code space terminal.
 
 Alternatively, you can also follow these steps to work with the repository on your local machine:
 
